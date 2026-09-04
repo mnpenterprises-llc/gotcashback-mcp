@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.gotcashback/gotcashback",
+  "title": "GotCashback",
+  "description": "Compare cashback rates across portals and discounted gift cards for stores in 30+ countries.",
+  "version": "1.1.0",
+  "websiteUrl": "https://www.gotcashback.com/mcp-server/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.gotcashback.com"
+    }
+  ]
+}
