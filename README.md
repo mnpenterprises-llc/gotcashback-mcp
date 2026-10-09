@@ -1,6 +1,6 @@
 # GotCashback MCP server
 
-**Endpoint:** `https://mcp.gotcashback.com` (Streamable HTTP) · **Docs:** https://www.gotcashback.com/mcp-server/ · **Registry name:** `com.gotcashback/gotcashback` · **Version:** 1.1.0
+**Endpoint:** `https://mcp.gotcashback.com` (Streamable HTTP) · **Docs:** https://www.gotcashback.com/mcp-server/ · **Registry name:** `com.gotcashback/gotcashback` · **Version:** 1.1.1
 
 GotCashback is a cashback comparison service, not a cashback portal. It compares the current cashback
 rates published by **113 cashback portals across 42 countries (40 in the United States)** for online

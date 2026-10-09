@@ -3,7 +3,7 @@
   "name": "com.gotcashback/gotcashback",
   "title": "GotCashback",
   "description": "Compare cashback rates from 100+ portals in 40+ countries and find discounted gift cards.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://www.gotcashback.com/mcp-server/",
   "remotes": [
     {

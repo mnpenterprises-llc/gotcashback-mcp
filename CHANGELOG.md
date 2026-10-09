@@ -4,11 +4,10 @@ The hosted server at `https://mcp.gotcashback.com` is deployed continuously; the
 the one reported in `serverInfo` and the server card, and is bumped when the registry listing is
 republished. Dates are the dates the change went live.
 
-## 1.1.0 — 2026-09-04 (Official MCP Registry publish)
+## 1.1.1 — 2026-10-09
 
-Listed as `com.gotcashback/gotcashback` on https://registry.modelcontextprotocol.io.
-
-### Changes since the publish (server still reports 1.1.0)
+Registry republish with an updated listing description; the server reports 1.1.1. Rolls up the
+behaviour changes deployed since the 1.1.0 publish:
 
 - **2026-09-08** — Cashback alerts fire only on a store's best **flat** rate from a cash-paying
   portal. "Up to" tiered rates and airline-miles, credit-card and points portals no longer satisfy a
@@ -26,7 +25,9 @@ Listed as `com.gotcashback/gotcashback` on https://registry.modelcontextprotocol
 - **2026-09-04** — Server-side telemetry (Application Insights) for availability monitoring. No
   change to tool behaviour.
 
-### What 1.1.0 shipped (2026-08 to 2026-09-04)
+## 1.1.0 — 2026-09-04 (Official MCP Registry publish)
+
+Listed as `com.gotcashback/gotcashback` on https://registry.modelcontextprotocol.io.
 
 - Optional OAuth 2.1 sign-in (authorization code + PKCE, dynamic client registration, refresh tokens)
   and the six account tools: `get_my_profile`, `get_my_favorite_stores`, `toggle_favorite_store`,
